@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "netology.profile.dev",
+      "type": "java.lang.String",
+      "description": "Description for netology.profile.dev."
+    },
+    {
+      "name": "netology.profile.prod",
+      "type": "java.lang.String",
+      "description": "Description for netology.profile.prod."
+    }
+  ] }
